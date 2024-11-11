@@ -31,7 +31,8 @@
     "Container (.NET SDK)": {
       "commandName": "SdkContainer",
       "launchBrowser": true,
-      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      //"launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "launchUrl": "{localhost}://{1000}:{1000}",
       "environmentVariables": {
         "ASPNETCORE_HTTPS_PORTS": "8081",
         "ASPNETCORE_HTTP_PORTS": "8080"
