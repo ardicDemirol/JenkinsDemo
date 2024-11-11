@@ -3,6 +3,7 @@ WORKDIR /App
 COPY . ./
 RUN dotnet restore
 RUN dotnet publish --no-restore -c Release -o out
+EXPOSE 90
 
 
 
