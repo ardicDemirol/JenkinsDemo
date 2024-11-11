@@ -8,7 +8,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
       "dotnetRunMessages": true,
-      "applicationUrl": "http://localhost:9000"
+      "applicationUrl": "http://localhost:1000"
     },
     "IIS Express": {
       "commandName": "IISExpress",
@@ -23,8 +23,8 @@
       "launchBrowser": true,
       "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
       "environmentVariables": {
-        "ASPNETCORE_HTTPS_PORTS": "9000",
-        "ASPNETCORE_HTTP_PORTS": "9001"
+        "ASPNETCORE_HTTPS_PORTS": "1000",
+        "ASPNETCORE_HTTP_PORTS": "1000"
       },
       "publishAllPorts": true,
       "useSSL": true
@@ -35,7 +35,7 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:9000",
+      "applicationUrl": "http://localhost:1000",
       "sslPort": 44347
     }
   }
