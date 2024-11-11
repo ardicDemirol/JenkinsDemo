@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Jenkins\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{41DD40B7-B973-4FC8-ACC2-D525D457A2CE}|JenkinsDemo\\JenkinsDemo.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\jenkins\\jenkinsdemo\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{41DD40B7-B973-4FC8-ACC2-D525D457A2CE}|JenkinsDemo\\JenkinsDemo.csproj|solutionrelative:jenkinsdemo\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{41DD40B7-B973-4FC8-ACC2-D525D457A2CE}|JenkinsDemo\\JenkinsDemo.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\jenkins\\jenkinsdemo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{41DD40B7-B973-4FC8-ACC2-D525D457A2CE}|JenkinsDemo\\JenkinsDemo.csproj|solutionrelative:jenkinsdemo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41DD40B7-B973-4FC8-ACC2-D525D457A2CE}|JenkinsDemo\\JenkinsDemo.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\jenkins\\jenkinsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41DD40B7-B973-4FC8-ACC2-D525D457A2CE}|JenkinsDemo\\JenkinsDemo.csproj|solutionrelative:jenkinsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41DD40B7-B973-4FC8-ACC2-D525D457A2CE}|JenkinsDemo\\JenkinsDemo.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\jenkins\\jenkinsdemo\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{41DD40B7-B973-4FC8-ACC2-D525D457A2CE}|JenkinsDemo\\JenkinsDemo.csproj|solutionrelative:jenkinsdemo\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 788,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,20 +42,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Jenkins\\JenkinsDemo\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "JenkinsDemo\\Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Jenkins\\JenkinsDemo\\Properties\\launchSettings.json",
               "RelativeToolTip": "JenkinsDemo\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-11-07T15:21:19.247Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Jenkins\\JenkinsDemo\\Program.cs",
               "RelativeDocumentMoniker": "JenkinsDemo\\Program.cs",
@@ -68,13 +68,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Jenkins\\JenkinsDemo\\Dockerfile",
               "RelativeDocumentMoniker": "JenkinsDemo\\Dockerfile",
               "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Jenkins\\JenkinsDemo\\Dockerfile",
               "RelativeToolTip": "JenkinsDemo\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-11-07T12:15:40.145Z",
               "EditorCaption": ""
