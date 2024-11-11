@@ -32,7 +32,7 @@
       "commandName": "SdkContainer",
       "launchBrowser": true,
       //"launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
-      "launchUrl": "{localhost}://{1000}:{1000}",
+      "launchUrl": "{localhost}://{ServiceHost}:{ServicePort}",
       "environmentVariables": {
         "ASPNETCORE_HTTPS_PORTS": "8081",
         "ASPNETCORE_HTTP_PORTS": "8080"
