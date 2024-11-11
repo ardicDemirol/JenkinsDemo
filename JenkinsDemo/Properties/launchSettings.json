@@ -21,7 +21,7 @@
     "Container (.NET SDK)": {
       "commandName": "SdkContainer",
       "launchBrowser": true,
-      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}/swagger",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
       "environmentVariables": {
         "ASPNETCORE_HTTPS_PORTS": "9000",
         "ASPNETCORE_HTTP_PORTS": "9001"
